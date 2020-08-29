@@ -8,8 +8,8 @@ Resources:
             InstanceType: t2.micro
 
 
-    MyS3Bucket:
+    MyS3Bucket22:
         Type: AWS::S3::Bucket
         Properties: 
-            AccessControl: PublicRead
-            BucketName:    somebucketnameforpope
+            
+            BucketName:    somebucketnameforpope2450
